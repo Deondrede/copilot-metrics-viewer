@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/deond/OneDrive/Documents/copilot-metrics-viewer/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
